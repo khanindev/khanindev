@@ -1,7 +1,7 @@
-# About me
+# Tech skills
 5 years of experience working as a front-end developer.
 
-### Programming languages
+#### Programming languages
 ![Dmitriy Khanin > Tech Skills > Languages](https://raw.githubusercontent.com/khanindev/khanindev/main/languages.png)
-### Frameworks
+#### Frameworks
 ![Dmitriy Khanin > Tech Skills > Framtworks](https://raw.githubusercontent.com/khanindev/khanindev/main/frameworks.png)
